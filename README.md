@@ -1,3 +1,6 @@
+<p align="center"><a href="https://www.linkedin.com/posts/huseyin-unalan_laravel-laravel9-mysql-activity-7023334817295462401-U66E?utm_source=share&utm_medium=member_desktop" target="_blank"> Watch Preview Video.</a></p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
